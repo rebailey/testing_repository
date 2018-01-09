@@ -1,13 +1,6 @@
----
-title: "My First Mardown File"
-output: 
-  html_document: 
-    keep_md: yes
----
+# My First Mardown File
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 ## Lists
 
