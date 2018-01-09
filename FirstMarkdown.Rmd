@@ -31,3 +31,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![This is an image of a puppy](http://cdn2-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-8.jpg)
 
+## Working Directory
+
+```{r }
+getwd()
+```
+
